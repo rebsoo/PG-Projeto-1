@@ -196,7 +196,7 @@ function criarParametros() { // cria os parametros de acordo a quantidade de pon
 			parametros.push(1);
 		}
 		else {
-			parametros.push(i/((seg*3)+1));
+			parametros.push(i/(seg*3));
 		}
 		
 	}
