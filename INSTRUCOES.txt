@@ -36,3 +36,5 @@ Em seguida basta clicar no botão 'CURVE'.
 9. Mesmo com a curva feita é possível adicionar mais pontos, basta clicar na tela
 para criar outros pontos D e em 'CURVE'. Se desejar mudar o número de avaliações,
 digite outro valor e aperte 'SEND' antes de construir a curva.
+
+10. Para apagar tudo no canvas, basta apertar 'CLEAR'.
