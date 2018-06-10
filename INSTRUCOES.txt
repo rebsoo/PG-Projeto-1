@@ -1,0 +1,38 @@
+/*
+PROJETO DE PROCESSAMENTO GRÁFICO 2018.1
+Rebeca Oliveira Silva (ros4)
+M B M X 
+*/
+
+LEGENDA:
+
+Pontos D - ROXO
+Pontos B - BRANCO
+Curva - ROSA
+
+INSTRUÇÕES:
+
+1. Dentro do espaço delimitado por um retângulo, clique para criar pontos
+'D' sem limite para a quantidade dos mesmos.
+
+2. As linhas de controle e os pontos B vão ser criados automaticamente à medida
+que os pontos 'D' forem sendo introduzidos.
+
+3. Para excluir um ponto 'D' basta clicar com o botão direito do mouse
+em cima do mesmo.
+
+4. Para criar a curva, digite no espaço em branco superior esquerdo a quantidade
+de avaliações da curva (número de pontos computados) desejadas e aperte 'SEND'.
+Em seguida basta clicar no botão 'CURVE'.
+
+5. Para visualizar apenas os pontos D e suas linhas aperte 'ONLY D'.
+
+6. Para visualizar apenas os pontos B e suas linhas aperte 'ONLY B'.
+
+7. Para visualizar apenas a curva e suas linhas aperte 'ONLY CURVE'.
+
+8. Para visualizar novamente todos ao mesmo tempo aperte 'ALL'.
+
+9. Mesmo com a curva feita é possível adicionar mais pontos, basta clicar na tela
+para criar outros pontos D e em 'CURVE'. Se desejar mudar o número de avaliações,
+digite outro valor e aperte 'SEND' antes de construir a curva.

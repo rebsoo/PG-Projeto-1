@@ -1,0 +1,38 @@
+html,
+body,
+#container,
+
+h1 {
+color: #969696;
+font-variant: small-caps;
+font-style: normal;
+font-size: 14px;
+
+
+}
+
+button {
+color: #969696;
+background-color: #ffffff;
+font-variant: small-caps;
+font-style: normal;
+font-size: 14px;
+
+
+}
+
+h2 {
+color: #c8c8c8;
+font-variant: small-caps;
+font-style: normal;
+font-size: 14px;
+
+
+}
+
+p {
+color: #969696;
+font-variant: small-caps;
+font-style: normal;
+font-size: 16px;
+}

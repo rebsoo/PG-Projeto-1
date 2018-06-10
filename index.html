@@ -1,0 +1,40 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>PG - ros4</title>
+		<link rel="stylesheet" type="text/css" href="new.css">
+		
+		<style>
+	
+	body {
+	background-color: #fde4d0;
+	}
+	
+	h1{
+	background-color: #fde4d0;
+	}
+	
+	</style>
+	</head>
+	
+	<body class="title" bgcolor="#fde4d0">
+		<h1 align = "left">projeto de processamento gráfico <br /> b-splines cúbicas fechadas <br /> rebeca silva (ros4)</h1>
+		<img align = "left" src="https://i.imgur.com/L4hffLJ.png" alt="dreams come true">
+		<p align = "left"> purple: d points | white: b points | pink: b-spline curve <p>
+		<input type="text" id="T" size="3">
+		<button onclick = "pegarT()">send</button>
+		<button onclick = "limpar()">clear</button>
+		<button onclick = "curvaS()">curve</button>
+		<button onclick = "apenasControle()">only d</button>
+		<button onclick = "apenasSpline()">only b</button>
+		<button onclick = "apenasCurva()">only curve</button>
+		<button onclick = "todos()">all</button>
+	</body>
+
+	<canvas id="canvasROS4" width="1000" height ="500"
+		 style="border:1px solid #FFFFFF";>
+	</canvas>
+
+	<script type="text/javascript" src="mainF.js"></script>
+
+</html>
