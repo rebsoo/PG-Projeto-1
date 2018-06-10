@@ -1,5 +1,5 @@
 /*
-PROJETO DE PROCESSAMENTO GR¡FICO 2018.1
+PROJETO DE PROCESSAMENTO GR√ÅFICO 2018.1
 Rebeca Oliveira Silva (ros4)
 M B M X 
 */
@@ -10,20 +10,20 @@ Pontos D - ROXO
 Pontos B - BRANCO
 Curva - ROSA
 
-INSTRU«’ES:
+INSTRU√á√ïES:
 
-1. Dentro do espaÁo delimitado por um ret‚ngulo, clique para criar pontos
-'D' sem limite para a quantidade dos mesmos.
+1. Dentro do espa√ßo delimitado por um ret√¢ngulo, clique com o bot√£o esquedo 
+para criar pontos 'D' sem limite para a quantidade dos mesmos.
 
-2. As linhas de controle e os pontos B v„o ser criados automaticamente ‡ medida
+2. As linhas de controle e os pontos B v√£o ser criados automaticamente √† medida
 que os pontos 'D' forem sendo introduzidos.
 
-3. Para excluir um ponto 'D' basta clicar com o bot„o direito do mouse
+3. Para excluir um ponto 'D' basta clicar com o bot√£o direito do mouse
 em cima do mesmo.
 
-4. Para criar a curva, digite no espaÁo em branco superior esquerdo a quantidade
-de avaliaÁıes da curva (n˙mero de pontos computados) desejadas e aperte 'SEND'.
-Em seguida basta clicar no bot„o 'CURVE'.
+4. Para criar a curva, digite no espa√ßo em branco superior esquerdo a quantidade
+de avalia√ß√µes da curva (n√∫mero de pontos computados) desejadas e aperte 'SEND'.
+Em seguida basta clicar no bot√£o 'CURVE'.
 
 5. Para visualizar apenas os pontos D e suas linhas aperte 'ONLY D'.
 
@@ -33,6 +33,6 @@ Em seguida basta clicar no bot„o 'CURVE'.
 
 8. Para visualizar novamente todos ao mesmo tempo aperte 'ALL'.
 
-9. Mesmo com a curva feita È possÌvel adicionar mais pontos, basta clicar na tela
-para criar outros pontos D e em 'CURVE'. Se desejar mudar o n˙mero de avaliaÁıes,
+9. Mesmo com a curva feita √© poss√≠vel adicionar mais pontos, basta clicar na tela
+para criar outros pontos D e em 'CURVE'. Se desejar mudar o n√∫mero de avalia√ß√µes,
 digite outro valor e aperte 'SEND' antes de construir a curva.
