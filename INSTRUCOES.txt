@@ -12,7 +12,7 @@ Curva - ROSA
 
 INSTRUÇÕES:
 
-1. Dentro do espaço delimitado por um retângulo, clique com o botão esquedo 
+1. Dentro do espaço delimitado por um retângulo, clique com o botão esquerdo 
 para criar pontos 'D' sem limite para a quantidade dos mesmos.
 
 2. As linhas de controle e os pontos B vão ser criados automaticamente à medida
